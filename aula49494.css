@@ -1,0 +1,35 @@
+header{
+    width: 100%;
+    background-color: red;
+    min-height: 100px;
+}
+body{
+    background-color: black;
+}
+img{
+    align-items: center;
+}
+h2{
+    background-color: aqua;
+}
+p{
+    background-color: blue;
+}
+button{
+    width: 100%;
+    background-color: blue;
+}
+p{
+    font-size: 50px;
+}
+button{
+    font-size: 10px;
+    background-color: black;
+    color: white;
+}
+header{
+    background-color: red;
+}
+header2{
+    background-color: cyan;width: 50px;
+}
